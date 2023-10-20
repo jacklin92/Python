@@ -1,1 +1,2 @@
-# Python
+# GDSC Python Course
+ 
